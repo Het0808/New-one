@@ -1,0 +1,3 @@
+Temperature -> Avg: 32.3, Median: 32.0
+Humidity -> Avg: 44.3, Median: 44.5
+AQI -> Avg: 94.2, Median: 94.0
